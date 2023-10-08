@@ -21,3 +21,12 @@ Estimated Unemployment Rate (%) = percentage of people unemployed in each States
 Estimated Employed = percentage of people employed
 
 Estimated Labour Participation Rate (%) = labour force participation rate by dividing the number of people actively participating in the labour force by the total number of people eligible to participate in the labor force
+
+Acknowledgements
+I wouldn't be here without the help of my friends. I owe you thanks !!
+
+Inspiration
+questions?
+
+1) How Covid-19 affects the employment
+2) how far the unemployment rate will go
